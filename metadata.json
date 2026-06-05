@@ -1,0 +1,6 @@
+{
+  "name": "Melody",
+  "description": "A cute pink pastel vintage-inspired music journaling platform that uses Gemini AI to match your emotional venting with personalized song recommendations and interactive audio previews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

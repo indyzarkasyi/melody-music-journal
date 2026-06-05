@@ -1,4 +1,20 @@
-# melody-music-journal
-An aesthetic pastel-themed emotional health companion and music journal. Powered by Gemini AI, it translates daily user venting into personalized song recommendations, tracks emotional anomalies, and provides advanced temporal analytics through interactive data visualizations.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
 
-link app: https://melody-562999811558.asia-southeast1.run.app/
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/42c21888-81c6-4504-93e4-f11aefc63e5d
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
